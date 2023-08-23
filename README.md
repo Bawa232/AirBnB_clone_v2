@@ -97,7 +97,7 @@ There should be one project repository per group. If you clone/fork/whatever a p
 More Info
 
 
-Comments for your SQL file:
+Comment for your SQL file:
 $ cat my_script.sql
 -- first 3 students in the Batch ID=3
 -- because Batch 3 is the best!
